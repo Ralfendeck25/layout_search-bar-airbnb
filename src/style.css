@@ -19,13 +19,13 @@ body {
 }
 
 /* Big search form */
-form[data-qa="big"] {
+form[data-qa='big'] {
   width: 100%;
   margin-top: 20px;
   position: relative;
 }
 
-form[data-qa="big"] input {
+form[data-qa='big'] input {
   width: 100%;
   height: 56px;
   padding: 16px 56px;
@@ -41,13 +41,13 @@ form[data-qa="big"] input {
 }
 
 /* Small search form */
-form[data-qa="small"] {
+form[data-qa='small'] {
   width: 100%;
   margin-top: 20px;
   position: relative;
 }
 
-form[data-qa="small"] input {
+form[data-qa='small'] input {
   width: 100%;
   height: 48px;
   padding: 12px 48px;
